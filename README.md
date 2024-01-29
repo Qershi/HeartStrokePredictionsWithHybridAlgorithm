@@ -14,5 +14,5 @@
     
 *The result for the data*
 
-![](\result.png) 
+![](./result.png) 
 
